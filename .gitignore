@@ -24,3 +24,7 @@ Thumbs.db
 # 缓存
 .cache/
 *.tsbuildinfo
+
+# 本机 git 辅助文件（证书包、临时凭据，不提交）
+.cacert.pem
+.git-local/
